@@ -5,6 +5,9 @@
 ## Setup Caravel Board and Prerequisites
 * Refer to https://github.com/efabless/caravel_board
 
+## Breakout Board
+* ...
+
 ## Test scenarios
 * Boot Caravel board from flash
 * Activate Caravel IOs
