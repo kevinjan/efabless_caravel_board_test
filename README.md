@@ -1,12 +1,13 @@
-## Efabless Caravel Board Test Target
-Proving diagnose/debug Caravel's peripherals, IO and user design on Caravel Board.
+## Target of Caravel Board Test 
+* Reproduce offical diagnose/debug flow on Caravel's peripherals, IO and user design
+* Log detail of test scenarios
 
-## Caravel Board Setup
-* Ubuntu 20.04
+## Setup Caravel Board and Prerequisites
+* Refer to https://github.com/efabless/caravel_board
 
 ## Test scenarios
 * Boot Caravel board from flash
 * Activate Caravel IOs
-* Programming Caravel soc peripherials
+* Program Caravel soc peripherials
 * Test functionality of Caravel user design
 * ...
