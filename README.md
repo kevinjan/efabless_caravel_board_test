@@ -1,4 +1,4 @@
-## Target of Caravel Board Test 
+## Target of Caravel Board Test (PR Test)
 * Reproduce offical diagnose/debug flow of Caravel's peripherals, IO and user design
 * Log detail of test scenarios
 * Demonstration
